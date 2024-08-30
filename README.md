@@ -1,1 +1,1 @@
-# -uu-cpc-v3.0
+# UU-CPC
